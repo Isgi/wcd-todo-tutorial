@@ -6,6 +6,7 @@
     "@material-ui/core": "4.9.2",
     "@webcodesk/react-app-framework": "2.0.28",
     "cross-env": "6.0.3",
+    "cross-spawn": "^7.0.3",
     "express": "4.17.1",
     "localforage": "1.7.3",
     "lodash": "4.17.15",
@@ -37,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "dependencies": {
+    "redux": "^4.0.5"
   }
 }
